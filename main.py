@@ -7,7 +7,7 @@ app = Flask(__name__)
 @app.route('/')
 def index():
     return '''<html>
-            Ольга Николаевна, вы лучшая!
+            УРААААААААААААА!
             </html>
             '''
 
