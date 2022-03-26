@@ -148,4 +148,4 @@ def get_suggests(user_id):
 
 if __name__ == '__main__':
     # app.run()
-    serve(app)
+    serve(app, host='0.0.0.0', port=5000)
